@@ -1,0 +1,10 @@
+{
+  "name": "NodeJsExpressFileUploadDemo",
+  "description": "Demo app to upload file using Express framework over Node.js application.",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": ">=3.1"
+  }
+}
+
